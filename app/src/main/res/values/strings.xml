@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">Movie Picker</string>
+    <string name="start_pick_btn">Pick a Movie!</string>
+    <string name="welcome">Welcome to Movie Picker!</string>
+    <string name="intro">Here to simplify the movie choosing process</string>
+    <string name="home_icon">Home Icon</string>
+    <string name="About">About</string>
+    <string name="Watchlist">Watchlist Preview</string>
+    <string name="AddMovie">Add a Movie</string>
+    <string name="MovieParams">Select Movie Parameters (If Any)</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Continue">Continue</string>
+    <string name="Genre">Genre</string>
+    <string name="Platform">Streaming Platform</string>
+    <string name="Length">Length (minutes)</string>
+    <string name="Search">Search For Movie To Add</string>
+    <string name="aSearch">Search</string>
+    <string name="Title">Title</string>
+    <string name="mLength">Length</string>
+    <string name="Rating">Rating</string>
+    <string name="Pform">Platform</string>
+    <string name="Related">Related Movies</string>
+    <string name="LogIn">Log In</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="CreateAcct">Create an Account</string>
+    <string name="Create">Create</string>
+    <string name="Profile">Your Profile</string>
+    <string name="Description">Description</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="running_time">Running Time:</string>
+    <string name="genres">Genre(s):</string>
+    <string name="exit">Exit</string>
+    <string name="watchlist">Your Watchlist</string>
+    <string name="how_to">How to Use</string>
+    <string name="home">Home</string>
+    <string name="choose_movie">Choosing a Movie</string>
+    <string name="add_movie">Adding a Movie</string>
+    <string name="view_watchlist">Viewing Your Watchlist</string>
+    <string name="using_app">Using Movie Picker</string>
+    <string name="delete">Delete</string>
+
+
+    <string-array name="length_array">
+        <item> </item>
+        <item>Under 90 Minutes</item>
+        <item>90 to 120 Minutes</item>
+        <item>120+ Minutes</item>
+    </string-array>
+
+    <string-array name="genres_array">
+        <item> </item>
+        <item>Action</item>
+        <item>Adventure</item>
+        <item>Animation</item>
+        <item>Comedy</item>
+        <item>Crime</item>
+        <item>Documentary</item>
+        <item>Drama</item>
+        <item>Family</item>
+        <item>Fantasy</item>
+        <item>History</item>
+        <item>Horror</item>
+        <item>Music</item>
+        <item>Mystery</item>
+        <item>Romance</item>
+        <item>Science Fiction</item>
+        <item>TV Movie</item>
+        <item>Thriller</item>
+        <item>War</item>
+        <item>Western</item>
+    </string-array>\
+
+    <string-array name="streaming_array">
+        <item> </item>
+        <item>Netflix</item>
+        <item>Amazon Prime Video</item>
+        <item>Disney Plus</item>
+        <item>Apple iTunes</item>
+        <item>Google Play Movies</item>
+        <item>Hulu</item>
+        <item>Paramount Plus</item>
+        <item>fuboTV</item>
+        <item>HBO Max</item>
+        <item>Peacock</item>
+    </string-array>
+
+</resources>
